@@ -1,1 +1,1 @@
-# Yemek_Tarifleri
+Asp.net ile örnek bir yemek tarifleri sitesi hazırlanmıştır.
